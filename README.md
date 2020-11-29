@@ -1,5 +1,12 @@
 # k8s-study
 
+## Reference
+
+- [k8s study best practices](https://www.reimaginer.me/entry/kubernetes-study-review)
+- [k8s github source code](https://github.com/luksa/kubernetes-in-action-2nd-edition)
+- [간단하게 k8s란?](https://subicura.com/2019/05/19/kubernetes-basic-1.html)
+
+
 ## Part-1
 
 ### 스터디 시간 및 장소
