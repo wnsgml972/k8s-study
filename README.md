@@ -96,4 +96,6 @@
 #### 5주차
 
 - 18장 쿠버네티스 확장히기 : 
-- Helm, Rancher, Istio 중 발표
+- Helm : `최용석`
+- Rancher : `박세호`
+- Istio : `김준희`
